@@ -28,8 +28,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- Ảnh động Pixel Art Developer -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZmdXRpZmdyZXQ3OHdvd2F5YnV5aTFsaHZvdnVseTY3bmJrb3ltciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFAA22A1fInL2/giphy.gif" width="100%" alt="Coding GIF" />
+      <!-- Ảnh động Pixel Art Chuyển Đúng Vị Trí -->
+      <img src="https://github.com/user-attachments/assets/d1b63f1e-4f29-4cb9-aa38-b2d08a89b78a" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
@@ -83,17 +83,8 @@
 
 ### 📊 Thống Kê GitHub (GitHub Stats)
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TuanAnhTran2k5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanAnhTran2k5&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuanAnhTran2k5&theme=tokyonight&hide_border=true" alt="Streak Stat" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuanAnhTran2k5&color=00F2FE&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
